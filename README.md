@@ -1,4 +1,4 @@
-# 🇬🇧 English – README.md
+# 🇬🇧 English
 
 # Marketing Analytics Decision Engine 📊  
 ### Turning Customer Data into Revenue, Retention & Strategy
@@ -61,36 +61,43 @@ The app walks through the most important pillars of customer analytics.
 - Prioritization of audiences  
 
 ### 💰 Revenue Optimization
+
 - Marketing impact on sales  
 - Budget efficiency  
 - ROI visibility  
 
 ### 🔮 Forecasting & Planning
+
 - Trend recognition  
 - Seasonality  
 - Demand prediction  
 
 ### ❤️ Retention & Loyalty
+
 - High-value customers  
 - Lifetime contribution  
 - Churn risk detection  
 
 ### 💬 Voice of Customer
+
 - Satisfaction measurement  
 - Pain-point discovery  
 - Brand perception  
 
 ### 🛒 Product & Pricing Intelligence
+
 - Feature valuation  
 - Trade-off simulation  
 - Profit-oriented design  
 
 ### 🧮 Complex Relationship Discovery
+
 - Multivariable influence  
 - Hidden drivers  
 - Strategic levers  
 
 ### 🤖 Predictive Intelligence
+
 - Expected purchases  
 - Future behaviour  
 - Model performance transparency  
@@ -177,4 +184,3 @@ This project demonstrates exactly that capability.
 Data Analytics | Business Intelligence | Customer Insight Engineering
 
 ---
-
