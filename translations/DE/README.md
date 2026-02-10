@@ -1,7 +1,8 @@
-# 🇩🇪 German – translations/DE/README.md
 
-```markdown
+# 🇩🇪 German
+
 # Marketing Analytics Decision Engine 📊  
+
 ### Kundendaten in Umsatz, Bindung & Strategie verwandeln
 
 ![Python](https://img.shields.io/badge/Python-Analytics-blue)
@@ -11,13 +12,13 @@
 ![Business Fokus](https://img.shields.io/badge/Fokus-Business_Value-important)
 
 [English](../EN/README.md) | [German](README.md)
+
 ---
 
 ## 🚀 Projektmission
 
-Moderne Unternehmen haben kein Datenproblem.  
-Sie haben ein **Entscheidungsproblem**.
-
+#### Moderne Unternehmen haben kein Datenproblem. Sie haben ein **Entscheidungsproblem**.
+ 
 Diese Anwendung zeigt, wie analytische Methoden aus Kunden- und Marketingdaten:
 
 ✅ bessere Investitionen  
@@ -163,9 +164,7 @@ Im Hintergrund stehen moderne Methoden wie:
 ## 🌍 Warum das wichtig ist
 
 Datenrollen verändern sich.
-
 Unternehmen brauchen Menschen, die **erklären** können – nicht nur rechnen.
-
 Dieses Projekt demonstriert genau diese Fähigkeit.
 
 ---
