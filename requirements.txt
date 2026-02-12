@@ -1,1 +1,7 @@
+streamlit
+plotly
+lifelines
+pandas
+numpy
+scikit-learn
 mlxtend
