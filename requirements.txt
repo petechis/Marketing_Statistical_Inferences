@@ -1,5 +1,6 @@
 streamlit
-plotly
+Plotly
+seaborn
 lifelines
 pandas
 numpy
