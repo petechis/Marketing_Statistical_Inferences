@@ -1,6 +1,7 @@
 streamlit
 Plotly
 seaborn
+statsmodels
 lifelines
 pandas
 numpy
